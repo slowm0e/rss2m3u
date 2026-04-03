@@ -55,4 +55,4 @@ http://<moode-ip>/rss2m3u.php
 
 Inspired by [podcast2playlist](https://github.com/buzink/podcast2playlist) by buzink, originally written for Volumio. Adapted for moOde with a web UI and additional features.
 
-A [fix for M3U title parsing](https://github.com/moode-player/moode/pull/TODO) was contributed to moOde as part of this project, which is required for episode titles to display correctly.
+A [fix for M3U title parsing](https://github.com/moode-player/moode/pull/740) was contributed to moOde as part of this project, which is required for episode titles to display correctly.
