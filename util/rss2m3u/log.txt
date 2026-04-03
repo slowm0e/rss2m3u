@@ -1,0 +1,82 @@
+--- Run started: Mon Mar 30 04:12:39 PM CEST 2026 ---
+Downloading: DR P1 Orientering
+Success: DR P1 Orientering
+Downloading: DR P1 Morgen
+Success: DR P1 Morgen
+Downloading: Genstart
+Success: Genstart
+Downloading: Børsen Morgenbriefing
+Success: Børsen Morgenbriefing
+Downloading: Børsen Investor
+Success: Børsen Investor
+Converting: Børsen Investor.rss
+Converting: Børsen Morgenbriefing.rss
+Converting: DR P1 Morgen.rss
+Converting: DR P1 Orientering.rss
+Converting: Genstart.rss
+--- Run finished: Mon Mar 30 04:12:41 PM CEST 2026 ---
+--- Run started: Mon Mar 30 04:17:20 PM CEST 2026 ---
+Downloading: DR P1 Orientering
+Success: DR P1 Orientering
+Downloading: DR P1 Morgen
+Success: DR P1 Morgen
+Downloading: Genstart
+Success: Genstart
+Downloading: Børsen Morgenbriefing
+Success: Børsen Morgenbriefing
+Downloading: Børsen Investor
+Success: Børsen Investor
+Converting: Børsen Investor.rss
+Converting: Børsen Morgenbriefing.rss
+Converting: DR P1 Morgen.rss
+Converting: DR P1 Orientering.rss
+Converting: Genstart.rss
+--- Run finished: Mon Mar 30 04:17:22 PM CEST 2026 ---
+Whatcha Say - Jason Derulo
+[playing] #4073/4073  18:46/0:00 (0%)
+Updating DB (#10) ...
+volume: 33%   repeat: off   random: off   single: off   consume: off
+--- Run started: Mon Mar 30 04:18:07 PM CEST 2026 ---
+Downloading: P1 Orientering
+Success: P1 Orientering
+Downloading: P1 Morgen
+Success: P1 Morgen
+Downloading: Genstart
+Success: Genstart
+Downloading: Børsen Morgenbriefing
+Success: Børsen Morgenbriefing
+Downloading: Børsen Investor
+Success: Børsen Investor
+Converting: Børsen Investor.rss
+Converting: Børsen Morgenbriefing.rss
+Converting: DR P1 Morgen.rss
+Converting: DR P1 Orientering.rss
+Converting: Genstart.rss
+Converting: P1 Morgen.rss
+Converting: P1 Orientering.rss
+--- Run finished: Mon Mar 30 04:18:09 PM CEST 2026 ---
+Whatcha Say - Jason Derulo
+[playing] #4073/4073  19:33/0:00 (0%)
+Updating DB (#11) ...
+volume: 33%   repeat: off   random: off   single: off   consume: off
+--- Run started: Mon Mar 30 04:26:53 PM CEST 2026 ---
+Downloading: P1 Orientering
+Success: P1 Orientering
+Downloading: P1 Morgen
+Success: P1 Morgen
+Downloading: Genstart
+Success: Genstart
+Downloading: Børsen Morgenbriefing
+Success: Børsen Morgenbriefing
+Downloading: Børsen Investor
+Success: Børsen Investor
+Converting: Børsen Investor.rss
+Converting: Børsen Morgenbriefing.rss
+Converting: Genstart.rss
+Converting: P1 Morgen.rss
+Converting: P1 Orientering.rss
+--- Run finished: Mon Mar 30 04:26:55 PM CEST 2026 ---
+VLR: TV-2 - Hele Verden Fra Forstanden
+[playing] #4070/4073   3:13/0:00 (0%)
+Updating DB (#15) ...
+volume: 33%   repeat: off   random: off   single: off   consume: off

@@ -1,0 +1,5 @@
+P1 Orientering;https://api.dr.dk/podcasts/v1/feeds/p1-orientering
+P1 Morgen;https://api.dr.dk/podcasts/v1/feeds/p1-morgen
+Genstart;https://api.dr.dk/podcasts/v1/feeds/genstart
+Børsen Morgenbriefing;https://feed.pod.space/borsenmorgenbriefing
+Børsen Investor;https://feed.pod.space/borseninvestor
