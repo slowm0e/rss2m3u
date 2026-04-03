@@ -55,13 +55,13 @@ if (file_exists($LOGFILE)) {
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>rss2m3u</title>
 <style>
-  body { max-width:800px; margin:0 auto; padding:20px; font-family:monospace; font-size:13px; background:#111; color:#ccc; }
-  h1 { font-size:15px; margin-bottom:4px; color:#fff; }
-  h2 { font-size:12px; text-transform:uppercase; letter-spacing:.1em; color:#666; border-bottom:1px solid #222; padding-bottom:6px; margin:24px 0 12px; }
-  input[type="text"] { background:#1a1a1a; border:1px solid #333; color:#ccc; font-family:monospace; font-size:12px; padding:5px 8px; border-radius:3px; }
+  body { max-width:1200px; margin:0 auto; padding:40px; font-family:monospace; font-size:15px; background:#111; color:#ccc; }
+  h1 { font-size:20px; margin-bottom:4px; color:#fff; }
+  h2 { font-size:13px; text-transform:uppercase; letter-spacing:.1em; color:#666; border-bottom:1px solid #222; padding-bottom:6px; margin:24px 0 12px; }
+  input[type="text"] { background:#1a1a1a; border:1px solid #333; color:#ccc; font-family:monospace; font-size:14px; padding:6px 10px; border-radius:3px; }
   input[type="text"]:focus { outline:none; border-color:#00c896; }
-  .row { display:grid; grid-template-columns:160px 1fr auto; gap:6px; margin-bottom:6px; }
-  button { font-family:monospace; font-size:12px; padding:5px 12px; border:1px solid #333; border-radius:3px; cursor:pointer; background:#1a1a1a; color:#ccc; }
+  .row { display:grid; grid-template-columns:200px 1fr auto; gap:8px; margin-bottom:8px; }
+  button { font-family:monospace; font-size:14px; padding:6px 14px; border:1px solid #333; border-radius:3px; cursor:pointer; background:#1a1a1a; color:#ccc; }
   button:hover { border-color:#00c896; color:#00c896; }
   .msg-ok  { color:#00c896; margin-bottom:12px; }
   .msg-err { color:#e05252; margin-bottom:12px; }
