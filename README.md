@@ -18,12 +18,13 @@ RSS podcast feeds to moOde audio player playlists — web UI, automatic M3U conv
 
 **Dependencies**
 ```bash
-sudo apt install xsltproc
+sudo apt install git xsltproc
 ```
 
-**Files**
-- Place `rss2m3u.php` in `/var/www/`
-- Place all other files in `/var/www/util/rss2m3u/`
+**Clone and install**
+```bash
+cd /var/www && sudo git clone https://github.com/slowm0e/rss2m3u temp && sudo cp -r temp/* . && sudo rm -rf temp
+```
 
 **Permissions**
 ```bash
