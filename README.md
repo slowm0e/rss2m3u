@@ -33,12 +33,13 @@ sudo chmod -R 755 /var/www/util/rss2m3u/
 sudo chmod +x /var/www/util/rss2m3u/rss2m3u.sh
 ```
 
-**Cron — run every day at 06:00**
+**Cron — run on boot and every day at 06:00**
 ```bash
 sudo crontab -e
 ```
 Add:
 ```
+@reboot sleep 60 && /bin/bash /var/www/util/rss2m3u/rss2m3u.sh
 0 6 * * * /bin/bash /var/www/util/rss2m3u/rss2m3u.sh
 ```
 
